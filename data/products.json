@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Mobile",
+        "description": "Dummy Data",
+        "id": 1,
+        "Price": "600$ USD"
+    },
+    {
+        "title": "TV",
+        "description": "Dummy Data",
+        "id": 2,
+        "Price": "800$ USD"
+    },
+    {
+        "id": 3,
+        "title": "Mic",
+        "description": "Description"
+    },
+    {
+        "id": 4,
+        "title": "Power Bank",
+        "description": "Description4"
+    }
+]
